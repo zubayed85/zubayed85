@@ -1,7 +1,7 @@
 ### Hi there, I'm Zubayed 👋 
 - 🔭 I’m currently working on **AI multi-agent systems and financial market prediction models**.
 - 💡 Passionate about Python, machine learning, and building automated tools.
-- 📬 Reach me via [LinkedIn](your-linkedin-link) or email!
+- 📬 Reach me via [LinkedIn]([your-linkedin-link](https://www.linkedin.com/in/md-zubayed-hossain-9802345/)) or email!
 
 ---
 
