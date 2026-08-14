@@ -16,5 +16,4 @@
 
 ---
 
-### 📊 GitHub Stats
-![Zubayed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zubayed85&show_icons=true&theme=radical)
+
